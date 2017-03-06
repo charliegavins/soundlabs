@@ -4,13 +4,13 @@ title: when is finished finished?
 permalink: /when-is-finished-finished/
 ---
 
-Background
+### Background
 
 Art has always been subject to the confines of the medium. In music as soon as there has been a way to record music onto something, there has been the requirement to offer as complete a work as possible because of an inability to make changes and improvements later.
 
 Digital media has opened up new possibilities in this field
 
-Mission
+### Mission
 
 Reduce the friction of release to a minimum.
 
