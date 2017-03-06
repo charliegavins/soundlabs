@@ -2,6 +2,7 @@
 layout: page
 title: philosophy
 permalink: /philosophy/
+navigation_weight: 1
 ---
 
 Our belief is that creativity and imagination are the most powerful forces in enacting positive change.

@@ -2,6 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
+navigation_weight: 2
 ---
 
 Within SoundLabs we are focussing on a select group of issues that will either separately or together look to occupy a new musical ecosystem.
