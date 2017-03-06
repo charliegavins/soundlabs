@@ -41,3 +41,15 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+.active{
+  color: blue;
+}
+.page-content{
+  min-height: 60vh;
+}
+.active{
+  background-color: rgb(166, 194, 230);
+}
+.page-link{
+  padding: 9px 20px 9px 20px !important;
+}
