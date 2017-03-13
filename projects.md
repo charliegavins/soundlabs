@@ -5,14 +5,20 @@ permalink: /projects/
 navigation_weight: 2
 ---
 
-Within SoundLabs we are focussing on a select group of issues that will either separately or together look to occupy a new musical ecosystem.
+At SoundLabs we focus on four distinct areas. If shortfalls are found within the current market, then we commit to explore these and develop solutions.
 
-Below are links to the areas of concentration, with information beneath referring to active projects and experiments currently under operation and their respective status.
+### [Creation](/projects/creation/)
 
-* ### [when is finished finished?](/soundlabs/when-is-finished-finished/)
+### [Administration](/projects/administration/)
 
-* ### [song rights administration](/soundlabs/song-rights-administration/)
+### [Remuneration](/projects/remuneration/)
 
-* ### [music first, money second](/soundlabs/music-first-money-second/)
+### [Distribution](/projects/distribution/)
 
-* ### [peer to peer](/soundlabs/peer-to-peer/)
+<!-- ### [Creation](/soundlabs/projects/creation/)
+
+### [Administration](/soundlabs/projects/administration/)
+
+### [Remuneration](/soundlabs/projects/remuneration/)
+
+### [Distribution](/soundlabs/projects/distribution/) -->

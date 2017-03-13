@@ -1,7 +1,7 @@
 ---
 layout: page
-title: when is finished finished?
-permalink: /when-is-finished-finished/
+title: creation
+permalink: /projects/creation/
 ---
 
 ### Background

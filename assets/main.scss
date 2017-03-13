@@ -37,3 +37,12 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.post-title{
+  color: rgb(207, 207, 207);
+  font-size: 80px;
+  display: block;
+}
+a:hover {
+  text-decoration: none;
+}

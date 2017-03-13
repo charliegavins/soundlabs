@@ -19,7 +19,7 @@ description: Exploring the magic that can happen between technology and music.
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: soundlabs
-github_username:  gabrielghost
+github_username:  charliegavins
 
 # Build settings
 markdown: kramdown
