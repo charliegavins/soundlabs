@@ -15,3 +15,5 @@ Digital media has opened up new possibilities in this field
 Reduce the friction of release to a minimum.
 
 Develop an environment that encourages the distribution of ideas, not finished works. Explore mechanics of version control and idea sketching and how that may be encouraged in a supportive and artist friendly way.
+
+[<--- back to projects](/projects/)
