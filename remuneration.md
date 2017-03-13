@@ -22,3 +22,5 @@ Artist to user
 - monthly payments split by listening habits
 Artist to business
 - shops/bars/clubs etc
+
+[<--- back to projects](/projects/)

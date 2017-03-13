@@ -12,4 +12,6 @@ Administrating the rights of songs is currently a costly process. Agreeing split
 
 Is there a more efficient, automated/user generated system that can be implemented that minimises overhead and maximises payout.
 
-### [Status report](/projects/administration/status/)
+### [Status report](/soundlabs/projects/administration/status/)
+
+[<--- back to projects](/projects/)
