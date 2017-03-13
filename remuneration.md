@@ -23,4 +23,4 @@ Artist to user
 Artist to business
 - shops/bars/clubs etc
 
-[<--- back to projects](/projects/)
+[<--- back to projects](/soundlabs/projects/)

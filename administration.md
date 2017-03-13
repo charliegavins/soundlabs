@@ -14,4 +14,4 @@ Is there a more efficient, automated/user generated system that can be implement
 
 ### [Status report](/soundlabs/projects/administration/status/)
 
-[<--- back to projects](/projects/)
+[<--- back to projects](/soundlabs/projects/)

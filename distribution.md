@@ -24,4 +24,4 @@ Allows for fans to have an active role in music distribution. Original, high qua
 
 To fully study what makes private and public trackers so successful. The economy of bandwidth and uploading/downloading - and can a strategy be developed that allows for these currently marginalised systems be legitimised and encouraged to thrive.
 
-[<--- back to projects](/projects/)
+[<--- back to projects](/soundlabs/projects/)
