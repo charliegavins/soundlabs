@@ -3,7 +3,7 @@ layout: page
 title: status
 permalink: /projects/administration/status/
 ---
- [<--- back to main page](/projects/administration/)
+ [<--- back to main page](/soundlabs/projects/administration/)
 
 
 What could be explored is a model that increases accuracy of song ownership and registration depending on it’s success. The less a song makes, the less accurate/robust the agreement needs to be.
